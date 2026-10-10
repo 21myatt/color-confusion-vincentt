@@ -33,6 +33,14 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/game/DevMouse.tsx",
+    "src/game/ExperienceStatus.tsx",
+    "src/game/Game.tsx",
+    "src/game/config.ts",
+    "src/game/cursor.ts",
+    "src/game/rng.ts",
+    "src/game/rounds.test.ts",
+    "src/game/rounds.ts"
   ]
 }

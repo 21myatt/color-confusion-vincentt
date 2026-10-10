@@ -1,3 +1,11 @@
+# Color Confusion
+
+A Stroop game you play with your palm: the target word is drawn in a different colour — hover
+your palm over the shape that matches the **ink**, not the word. Live at
+https://color-confusion.vincentt.app.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
